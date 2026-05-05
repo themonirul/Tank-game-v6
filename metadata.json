@@ -1,0 +1,6 @@
+{
+  "name": "Tank game v6",
+  "description": "A high-performance 3D Tank Game built with ArcadeGPU, featuring custom physics, JSM model loading, and a retro-arcade aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
